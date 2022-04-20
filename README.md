@@ -1,4 +1,4 @@
-# Artwebsite made with React
+# Art Website made with React
 
 [Click here to view the latest version of this project](https://jessicapohl.herokuapp.com/)
 
