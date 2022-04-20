@@ -1,3 +1,10 @@
+#Artwebsite made with React
+
+(Click here to see project live)[https://jessicapohl.herokuapp.com/]
+
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
