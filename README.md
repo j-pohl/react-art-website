@@ -1,6 +1,6 @@
 #Artwebsite made with React
 
-[Click here to view latest version of this project] (https://jessicapohl.herokuapp.com/)
+[Click here to view the latest version of this project](https://jessicapohl.herokuapp.com/)
 
 
 ---
